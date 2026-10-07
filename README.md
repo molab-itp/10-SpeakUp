@@ -5,4 +5,5 @@
 - https://www.hackingwithswift.com/plus/live-streams/speak-up
 - Subscription required
 
-
+## Issues
+- playback volume is very low
